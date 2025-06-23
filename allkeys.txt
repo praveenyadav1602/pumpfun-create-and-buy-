@@ -1,0 +1,5 @@
+walletforjitotip = "base58privatekeyhere"
+addwall1 = "base58privatekeyhere"
+addwall2 = "base58privatekeyhere"
+addwall3 = "base58privatekeyhere"
+creator_wallet = "base58privatekeyhere"
